@@ -15,20 +15,35 @@ export default class Nav extends Component {
         <Menu inverted pointing secondary>
           <Menu.Item
             name='home'
-            active={activeItem === 'home'}
+            active={activeItem === 'Artistas'}
             onClick={this.handleItemClick}
           />
           <Menu.Item
-            name='messages'
-            active={activeItem === 'messages'}
+            name='Patrocinadores'
+            active={activeItem === 'Patrocinadores'}
             onClick={this.handleItemClick}
           />
           <Menu.Item
-            name='friends'
-            active={activeItem === 'friends'}
+            name='Hazte Socio'
+            active={activeItem === 'Hazte Socio'}
             onClick={this.handleItemClick}
           />
-        </Menu>
+          <Menu.Item
+            name='Merchandising'
+            active={activeItem === 'Merchandising'}
+            onClick={this.handleItemClick}
+          />
+          <Menu.Item
+            name='Milagros'
+            active={activeItem === 'Milagros'}
+            onClick={this.handleItemClick}
+          />
+          <Menu.Item
+            name='Asociación'
+            active={activeItem === 'Asociación'}
+            onClick={this.handleItemClick}
+          />
+        </Menu> 
       </Segment>
       </div>  
      
