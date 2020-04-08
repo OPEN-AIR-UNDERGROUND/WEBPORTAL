@@ -12,26 +12,30 @@ const Nav = () => {
       
   }
 
+  const handleOnItemClick = (e, { name }) => {
+    console.log(name)
+  }
   
     return (
       <div className="item-nav">
         <Segment inverted>
         <Menu inverted pointing secondary>
-          <Link to='/artists'>
+          
           <Menu.Item
+            as={ Link } to='/artists'
             name='Artistas'
             active={activeItem === 'Artistas'}
             onClick={handleItemClick}
           />
-          </Link>
+         
           
-          <Link to='/sponsors'>
           <Menu.Item
+            as={ Link } to='/sponsors'
             name='Patrocinadores'
             active={activeItem === 'Patrocinadores'}
             onClick={handleItemClick}
           />
-          </Link>
+          
          
           <Menu.Item
             name='Hazte Socio'
