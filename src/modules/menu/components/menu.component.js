@@ -1,52 +1,65 @@
-import React, { Component } from 'react'
+import React, { Component, useState } from 'react'
 import { Menu, Segment } from 'semantic-ui-react'
+import {BrowserRouter as Router,Link,Redirect} from 'react-router-dom'
 
-export default class Nav extends Component {
-  state = { activeItem: 'home' }
+const Nav = () => {
+ 
+  const [activeItem,setActiveItem] =  useState('')
+ 
 
-  handleItemClick = (e, { name }) => this.setState({ activeItem: name })
+  const handleItemClick = (e, { name }) => {
+      setActiveItem(name)
+      
+  }
 
-  render() {
-    const { activeItem } = this.state
-
+  
     return (
       <div className="item-nav">
-           <Segment inverted>
+        <Segment inverted>
         <Menu inverted pointing secondary>
+          <Link to='/artists'>
           <Menu.Item
-            name='home'
+            name='Artistas'
             active={activeItem === 'Artistas'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
+          </Link>
+          
+          <Link to='/sponsors'>
           <Menu.Item
             name='Patrocinadores'
             active={activeItem === 'Patrocinadores'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
+          </Link>
+         
           <Menu.Item
             name='Hazte Socio'
             active={activeItem === 'Hazte Socio'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
           <Menu.Item
             name='Merchandising'
             active={activeItem === 'Merchandising'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
           <Menu.Item
             name='Milagros'
             active={activeItem === 'Milagros'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
           <Menu.Item
             name='Asociación'
             active={activeItem === 'Asociación'}
-            onClick={this.handleItemClick}
+            onClick={handleItemClick}
           />
         </Menu> 
       </Segment>
+    
       </div>  
      
     )
   }
-}
+
+
+export default Nav;
