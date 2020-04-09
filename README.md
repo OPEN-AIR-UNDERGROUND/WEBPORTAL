@@ -22,3 +22,4 @@ npx react-codemod rename-unsafe-lifecycles
 
 # Footer
 https://github.com/Semantic-Org/Semantic-UI-React/blob/master/docs/src/layouts/FixedMenuLayout.js
+
