@@ -77,3 +77,5 @@
 [2020-05-01 12:31:18.855] [exthost] [error] [vscode.typescript-language-features] provider FAILED
 [2020-05-01 12:31:18.855] [exthost] [error] Error: busy
 	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-01 12:41:29.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-05-01 12:41:29.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain

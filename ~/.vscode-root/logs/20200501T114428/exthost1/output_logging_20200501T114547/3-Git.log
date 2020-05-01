@@ -315,3 +315,62 @@ Error: ENOENT: no such file or directory, watch '/home/Bladi/src/OpenAir/WEBPORT
 > git cat-file -s f6b7a4f0721cdb52b58576a0378f6a5530e94859
 > git show :src/modules/home/components/home.component.js
 > git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git status -z -u
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git symbolic-ref --short HEAD
+> git cat-file -s 18ad60b8bced1a253f340dd378088dc7faa1cbc4
+> git rev-parse master
+> git show :src/modules/home/components/home.component.js
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/package.json
+> git cat-file -s 817091eafa073860a4257bc17255292a37c7ec7c
+> git show :package-lock.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/package-lock.json
+> git cat-file -s 2b226d739af314f2fa2dc9b6ac07c2b65e1b5d44
+> git show :src/App.css
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/App.test.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.test.js
+> git cat-file -s 4db7ebc25c2d066cd254805af5dda1ed1d2bc819
+> git show :src/LICENSE
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/LICENSE
+> git cat-file -s 8061079600021d9e0e34f3cdc52eeb5be035a584
+> git show :src/serviceWorker.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/serviceWorker.js
+> git cat-file -s b04b771a82613a80b0532d7082508763620074bf
+> git show :src/index.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/index.js
+> git cat-file -s 8d11922bb809bb7f65aef2e477f7136117cb88c9
+> git show :package.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/package.json
+> git cat-file -s 817091eafa073860a4257bc17255292a37c7ec7c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
