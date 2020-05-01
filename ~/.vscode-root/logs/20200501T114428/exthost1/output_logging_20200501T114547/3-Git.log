@@ -208,3 +208,110 @@ Error: ENOENT: no such file or directory, watch '/home/Bladi/src/OpenAir/WEBPORT
 > git show :src/App.js
 > git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
 > git cat-file -s 54bc3d34ff028bb87dd6787b2b808688fc872698
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git rev-parse master
+> git cat-file -s f6b7a4f0721cdb52b58576a0378f6a5530e94859
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/App.js
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 8e4f2635e4cf3c5c28160c9ecb3875db022fc6cf
+> git show :public/robots.txt
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/robots.txt
+> git cat-file -s e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e
+> git show :public/manifest.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/manifest.json
+> git cat-file -s 2c871e7d514475b4ee998dfb36c5b03a0b56f903
+> git show :package.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/package.json
+> git cat-file -s 817091eafa073860a4257bc17255292a37c7ec7c
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s f6b7a4f0721cdb52b58576a0378f6a5530e94859
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s e3a7af641e277d1cd37e458bba859ff3da37e392
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/modules/home/components/home.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git check-ignore -v -z --stdin
+> git show :src/modules/sponsors/components/sponsors.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/sponsors/components/sponsors.component.js
+> git cat-file -s b6b5ec6e7dc1bfc5a4fb807beb8971b1ff403dbb
+> git show :src/modules/home/components/home.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s f6b7a4f0721cdb52b58576a0378f6a5530e94859
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 8e4f2635e4cf3c5c28160c9ecb3875db022fc6cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s f6b7a4f0721cdb52b58576a0378f6a5530e94859
+> git show :src/modules/home/components/home.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js

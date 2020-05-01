@@ -5,7 +5,7 @@ import Footer from './modules/footer/components/footer.component'
 import Menu from './modules/menu/components/menu.component';
 import Artists from './modules/artist/components/artists.component';
 import Sponsors from './modules/sponsors/components/sponsors.component';
-
+import Home from './modules/home/components/home.component';
 
 
 
@@ -16,13 +16,12 @@ const  App = () =>  {
           <HeaderOpenAir></HeaderOpenAir>
           <Menu></Menu>
        <Switch>
-       <Route exact path="/" component={Menu}></Route>
+          <Route exact path="/" component={Home}></Route>
           <Route exact path="/artists" component={Artists}></Route>
           <Route exact path="/sponsors" component={Sponsors}></Route>
        </Switch>
        <Footer></Footer> 
      </Router>
-
     </div>
   );
 }
