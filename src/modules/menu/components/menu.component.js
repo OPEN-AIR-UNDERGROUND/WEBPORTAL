@@ -21,8 +21,8 @@ const Nav = () => {
         <Segment inverted vertical>
         <Container textAlign="center"> 
         <Menu inverted pointing secondary>
-        <Grid>
-          
+        <Grid stretched>
+
           <Menu.Item
             as={ Link } to='/'
             name='Home'
@@ -45,7 +45,7 @@ const Nav = () => {
           <Menu.Item
             as={ Link } to='/sponsors'
             name='Patrocinadores'
-            active={activeItem === 'Patroci</Container>adores'}
+            active={activeItem === 'Patrocinadores'}
             onClick={handleItemClick}
           />
            
