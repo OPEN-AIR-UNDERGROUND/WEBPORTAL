@@ -19,11 +19,10 @@ const Nav = () => {
     return (
     
         <Segment inverted vertical>
-         
+        <Container textAlign="center"> 
         <Menu inverted pointing secondary>
-        <Grid stackable>
+        <Grid>
           
-       
           <Menu.Item
             as={ Link } to='/'
             name='Home'
@@ -38,7 +37,7 @@ const Nav = () => {
             as={ Link } to='/artists'
             name='Artistas'
             active={activeItem === 'Artistas'}
-            onClick={handleItemClick}
+          onClick={handleItemClick}
           />
         
 
@@ -46,7 +45,7 @@ const Nav = () => {
           <Menu.Item
             as={ Link } to='/sponsors'
             name='Patrocinadores'
-            active={activeItem === 'Patrocinadores'}
+            active={activeItem === 'Patroci</Container>adores'}
             onClick={handleItemClick}
           />
            
@@ -75,7 +74,7 @@ const Nav = () => {
                
         </Grid> 
         </Menu>
-          
+        </Container>    
       </Segment> 
     )
   }
