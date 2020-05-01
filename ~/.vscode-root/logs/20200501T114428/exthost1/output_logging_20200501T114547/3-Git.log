@@ -183,3 +183,28 @@ Error: ENOENT: no such file or directory, watch '/home/Bladi/src/OpenAir/WEBPORT
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git rev-parse master
+> git cat-file -s 54bc3d34ff028bb87dd6787b2b808688fc872698
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show :src/App.js
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 8e4f2635e4cf3c5c28160c9ecb3875db022fc6cf
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 54bc3d34ff028bb87dd6787b2b808688fc872698

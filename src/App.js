@@ -16,7 +16,7 @@ const  App = () =>  {
           <HeaderOpenAir></HeaderOpenAir>
           <Menu></Menu>
        <Switch>
-       <Route exact path="/artists" component={Menu}></Route>
+       <Route exact path="/" component={Menu}></Route>
           <Route exact path="/artists" component={Artists}></Route>
           <Route exact path="/sponsors" component={Sponsors}></Route>
        </Switch>
