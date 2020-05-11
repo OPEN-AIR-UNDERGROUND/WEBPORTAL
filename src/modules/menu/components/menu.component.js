@@ -70,7 +70,7 @@ const Nav = () => {
             active={activeItem === 'Hazte Socio'}
             onClick={handleItemClick}
           />
-         
+
                
         </Grid> 
         </Menu>
