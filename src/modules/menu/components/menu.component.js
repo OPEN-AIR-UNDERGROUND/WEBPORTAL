@@ -1,5 +1,5 @@
 import React, { Component, useState } from 'react'
-import { Menu, Segment,Container,Grid } from 'semantic-ui-react'
+import { Menu, Segment,Container,Grid,Responsive } from 'semantic-ui-react'
 import {BrowserRouter as Router,Link,Redirect} from 'react-router-dom'
 
 const Nav = () => {
@@ -18,11 +18,11 @@ const Nav = () => {
   
     return (
     
-        <Segment inverted vertical>
-        <Container textAlign="center"> 
+       <Segment inverted vertical>
+        <Container textAlign="center">  
         <Menu inverted pointing secondary>
         <Grid stretched>
-
+         
           <Menu.Item
             as={ Link } to='/'
             name='Home'
@@ -74,8 +74,8 @@ const Nav = () => {
                
         </Grid> 
         </Menu>
-        </Container>    
-      </Segment> 
+      </Container>    
+      </Segment>  
     )
   }
 
