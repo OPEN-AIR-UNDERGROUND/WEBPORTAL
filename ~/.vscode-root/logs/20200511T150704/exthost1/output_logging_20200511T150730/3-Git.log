@@ -1,0 +1,1792 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/Bladi/src/OpenAir/WEBPORTAL
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git check-ignore -v -z --stdin
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/package.json
+> git cat-file -s 9b6bd8a206fe2df0dc2327dd6bc5985401526e00
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git check-ignore -v -z --stdin
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 2b863b0076a8c2ccf5f35da1d631da2653cf4ed7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 2b863b0076a8c2ccf5f35da1d631da2653cf4ed7
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git check-ignore -v -z --stdin
+> git show :src/modules/home/components/home.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git cat-file -s 98c52d567c0616dc68d05b0ce8abe76bdfb4b1f8
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git show :src/modules/home/components/home.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/home/components/home.component.js
+> git cat-file -s 98c52d567c0616dc68d05b0ce8abe76bdfb4b1f8
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git check-ignore -v -z --stdin
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.test.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.test.js
+> git cat-file -s 4db7ebc25c2d066cd254805af5dda1ed1d2bc819
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git check-ignore -v -z --stdin
+> git show :public/css/styles.css
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/css/styles.css
+> git cat-file -s d69a2b73ca791d5758e583bdf7fa002577ab8656
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :public/css/styles.css
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/css/styles.css
+> git cat-file -s d69a2b73ca791d5758e583bdf7fa002577ab8656
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :public/css/styles.css
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/css/styles.css
+> git cat-file -s d69a2b73ca791d5758e583bdf7fa002577ab8656
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/css/styles.css
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/css/styles.css
+> git cat-file -s d69a2b73ca791d5758e583bdf7fa002577ab8656
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 2b863b0076a8c2ccf5f35da1d631da2653cf4ed7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 2b863b0076a8c2ccf5f35da1d631da2653cf4ed7
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/index.html
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/public/index.html
+> git cat-file -s 2b863b0076a8c2ccf5f35da1d631da2653cf4ed7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/artist/components/artists.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/artist/components/artists.component.js
+> git cat-file -s 4c39fd9357bd205e8d82c9abffa3ce64c3137347
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/App.js
+> git cat-file -s 9bc84d5d5b95cbf6c45588b5901479ce3b6320a8
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/menu/components/menu.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/menu/components/menu.component.js
+> git cat-file -s a7005e71a30fe62f86f469ef8ee9684ce29cfa12
+> git show :src/modules/siteMap/components/siteMap.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/siteMap/components/siteMap.component.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/modules/footer/components/footer.component.js
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git cat-file -s 0d710ce9718c3537544186994683ac2f249a2f65
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/Bladi/src/OpenAir/WEBPORTAL/src/modules/footer/components/footer.component.js
+> git symbolic-ref --short HEAD
+> git cat-file -s 96d785fa107165808f99c49d0467eed363721425
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :src/modules/footer/components/footer.component.js
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

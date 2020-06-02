@@ -7,7 +7,7 @@ import Artists from './modules/artist/components/artists.component';
 import Sponsors from './modules/sponsors/components/sponsors.component';
 import Home from './modules/home/components/home.component';
 import SiteMap from './modules/siteMap/components/siteMap.component';
-
+import Merchandising from './modules/merchandising/components/merchandising.component';
 
 const  App = () =>  {
   return (
@@ -20,6 +20,7 @@ const  App = () =>  {
           <Route exact path="/artists" component={Artists}></Route>
           <Route exact path="/sponsors" component={Sponsors}></Route>
           <Route exact path="/siteMap" component={SiteMap}></Route>
+          <Route exact path="/merchandising" component={Merchandising}></Route>
        </Switch>
        <Footer></Footer> 
      </Router>

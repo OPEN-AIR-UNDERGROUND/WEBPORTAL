@@ -37,7 +37,7 @@ const Nav = () => {
             as={ Link } to='/artists'
             name='Artistas'
             active={activeItem === 'Artistas'}
-          onClick={handleItemClick}
+            onClick={handleItemClick}
           />
         
 
@@ -53,6 +53,7 @@ const Nav = () => {
 
          
           <Menu.Item
+            as={ Link } to='/merchandising'
             name='Merchandising'
             active={activeItem === 'Merchandising'}
             onClick={handleItemClick}
@@ -70,7 +71,7 @@ const Nav = () => {
             active={activeItem === 'Hazte Socio'}
             onClick={handleItemClick}
           />
-
+         
                
         </Grid> 
         </Menu>
